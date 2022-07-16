@@ -2,17 +2,7 @@ body {
   margin-left: 0;
   margin-top: 0;
   margin-right: 0;
-  font-family: "Edu NSW ACT Foundation";
-}
-
-@font-face {
-    font-family: 'edu_nsw_act_foundationregular';
-    src: url('/fonts/webfontkit-20220716-041144/edunswactfoundation-variablefont_wght-webfont.woff2') format('woff2'),
-         url('/fonts/webfontkit-20220716-041144/edunswactfoundation-variablefont_wght-webfont.woff') format('woff'),
-         url('/fonts/webfontkit-20220716-041144/edunswactfoundation-variablefont_wght-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: "edunswactfoundation-variablefont_wght-webfont", Arial, sans-serif;;
 }
 
 hr {
